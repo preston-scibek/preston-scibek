@@ -9,6 +9,7 @@ Top Language:
 Top 3 Skills are:   
 - API Development   
     - Primary Framework is Django
+    - Flask for smaller work
     - Learning Rails/Node
 - Webscraping  
     - Selenium (Python)
