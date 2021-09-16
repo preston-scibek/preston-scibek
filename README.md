@@ -1,4 +1,23 @@
+<!--
 ### Hi there 👋
+-->
+
+Software Engineer
+
+Top Language:  
+    Python  
+
+Top 3 Skills are:   
+- API Development   
+    - Primary Framework is Django
+    - Learning Rails/Node
+- Webscraping  
+    - Selenium (Python)
+- Adhoc Scripts/Integrations   
+    - AWS Lambdas
+    - Cron Scripts
+    - Various Languages (Python, Bash, Javascript)
+
 
 <!--
 **preston-scibek/preston-scibek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +30,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
