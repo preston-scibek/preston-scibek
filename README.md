@@ -23,13 +23,17 @@ Top 3 Skills are:
 **preston-scibek/preston-scibek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on : 
+    - personal: webscraping/monitoring universe.leagueoflegends.com
+    - professional: sensors/aptitude development for https://github.com/open-olive/olive-helps
+- 🌱 I’m currently learning : go , typescript
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with : 
+-->
+- 💬 Ask me about : python, webscraping, sports, video games, 
+- 📫 How to reach me: 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Have a pet newfoundland who is the same size as me.
+
