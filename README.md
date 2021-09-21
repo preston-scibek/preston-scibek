@@ -25,10 +25,11 @@ Top 3 Skills are:
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with : 
+    - professional: sensors/aptitude development for https://github.com/open-olive/olive-helps
+
 -->
 - 🔭 I’m currently working on : 
     - personal: webscraping/monitoring universe.leagueoflegends.com
-    - professional: sensors/aptitude development for https://github.com/open-olive/olive-helps
 - 🌱 I’m currently learning : go , typescript
 - 💬 Ask me about : python, webscraping, sports, video games, 
 - 📫 How to reach me: 
