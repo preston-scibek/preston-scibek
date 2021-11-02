@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on : 
     - personal: webscraping/monitoring universe.leagueoflegends.com
-    - professional: sensors/aptitude development for https://github.com/open-olive/olive-helps
+    - professional: Django API Development/Integration Work
 - 🌱 I’m currently learning : go , typescript
 - 💬 Ask me about : python, webscraping, sports, video games, 
 - 📫 How to reach me: 
