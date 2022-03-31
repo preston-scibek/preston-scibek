@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     - professional: Django API Development/Integration Work
 - 🌱 I’m currently learning : Jinja Templating, CSS/Styling 
 - 💬 Ask me about : python, webscraping, sports, video games, 
-- 📫 How to reach me: 
+<!-- - 📫 How to reach me: -->
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Have a pet newfoundland who is the same size as me.
-
+<!-- - ⚡ Fun fact: Have a pet newfoundland who is the same size as me.
+-->
