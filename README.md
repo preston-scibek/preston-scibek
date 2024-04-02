@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on : 
     - personal: webscraping/monitoring universe.leagueoflegends.com
-    - professional: Django API Development
-- 🌱 I’m currently learning : Jinja Templating, CSS/Styling 
+    - professional: AWS, PySpark 
+- 🌱 I’m currently learning : Big Data
 - 💬 Ask me about : python, webscraping, sports, video games, 
 <!-- - 📫 How to reach me: -->
 - 😄 Pronouns: he/him
