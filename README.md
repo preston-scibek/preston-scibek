@@ -10,7 +10,6 @@ Top 3 Skills are:
 - API Development   
     - Primary Framework is Django
     - Flask for smaller work
-    - Learning Rails/Node
 - Webscraping  
     - Selenium (Python)
 - Adhoc Scripts/Integrations   
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with : 
 -->
 - 🔭 I’m currently working on : 
-    - personal: webscraping/monitoring universe.leagueoflegends.com
+    - personal: webscraping, misc python utilities
     - professional: AWS, PySpark 
 - 🌱 I’m currently learning : Big Data
 - 💬 Ask me about : python, webscraping, sports, video games, 
